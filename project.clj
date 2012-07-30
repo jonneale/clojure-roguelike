@@ -1,6 +1,5 @@
 (defproject clojure-roguelike "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.3.0"]])
+  :description "A clojure roguelike game"
+  :dependencies [[org.clojure/clojure "1.4.0"]
+                 [clojure-lanterna "0.9.0"]]
+  :main clojure_rogulike.core)

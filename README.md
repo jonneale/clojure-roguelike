@@ -1,8 +1,9 @@
 # clojure-roguelike
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
+Following a tutorial posted here: http://stevelosh.com/blog/2012/07/caves-of-clojure-01/
 
-The choice is up to you!
+Implementation of a roguelike game
+
 
 ## Usage
 
